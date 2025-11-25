@@ -1,0 +1,16 @@
+# No subir entornos virtuales
+tf_env/
+env/
+venv/
+.venv/
+
+# No subir archivos grandes de Python
+__pycache__/
+*.pyd
+*.dll
+*.so
+*.zip
+*.whl
+
+# No subir carpetas de VSCode
+.vscode/
