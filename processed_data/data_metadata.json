@@ -32,5 +32,5 @@
     "target_variable": "hospital_expire_flag",
     "train_test_ratio": "80-20",
     "scaling_method": "StandardScaler",
-    "export_date": "2025-11-27T16:27:45.694913"
+    "export_date": "2025-11-27T16:46:42.882574"
 }
